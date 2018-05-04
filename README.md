@@ -1,1 +1,2 @@
-# Php upload script
+# Php resim yükleme script
+
